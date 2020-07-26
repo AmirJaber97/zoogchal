@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>CLIENT_ID</key>
+	<string>707290853190-73qm7dbp479827lskdma4atrldj5q7k5.apps.googleusercontent.com</string>
+	<key>REVERSED_CLIENT_ID</key>
+	<string>com.googleusercontent.apps.707290853190-73qm7dbp479827lskdma4atrldj5q7k5</string>
+	<key>API_KEY</key>
+	<string>AIzaSyDCCdwv7dqxUcZQ_ynGLRjgOoJh--2pN_k</string>
+	<key>GCM_SENDER_ID</key>
+	<string>707290853190</string>
+	<key>PLIST_VERSION</key>
+	<string>1</string>
+	<key>BUNDLE_ID</key>
+	<string>com.ajhosts.zoog</string>
+	<key>PROJECT_ID</key>
+	<string>zoogchallenge</string>
+	<key>STORAGE_BUCKET</key>
+	<string>zoogchallenge.appspot.com</string>
+	<key>IS_ADS_ENABLED</key>
+	<false></false>
+	<key>IS_ANALYTICS_ENABLED</key>
+	<false></false>
+	<key>IS_APPINVITE_ENABLED</key>
+	<true></true>
+	<key>IS_GCM_ENABLED</key>
+	<true></true>
+	<key>IS_SIGNIN_ENABLED</key>
+	<true></true>
+	<key>GOOGLE_APP_ID</key>
+	<string>1:707290853190:ios:7b5d739f381613f2863f47</string>
+	<key>DATABASE_URL</key>
+	<string>https://zoogchallenge.firebaseio.com</string>
+</dict>
+</plist>

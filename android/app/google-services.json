@@ -1,0 +1,47 @@
+{
+  "project_info": {
+    "project_number": "707290853190",
+    "firebase_url": "https://zoogchallenge.firebaseio.com",
+    "project_id": "zoogchallenge",
+    "storage_bucket": "zoogchallenge.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:707290853190:android:5fad172418abbdad863f47",
+        "android_client_info": {
+          "package_name": "com.rogmax.zoog"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "707290853190-uu31sj0da5s2au30ra9v6l3kvm6esc31.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBVgE3FuhQPUWDbr_sSC1nmhSqnWVH4IO4"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "707290853190-uu31sj0da5s2au30ra9v6l3kvm6esc31.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "707290853190-73qm7dbp479827lskdma4atrldj5q7k5.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.ajhosts.zoog"
+              }
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
